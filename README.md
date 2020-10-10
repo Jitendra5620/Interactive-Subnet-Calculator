@@ -1,4 +1,4 @@
-# Interactive-Subnet-Claculator
+# Interactive-Subnet-Calculator
 It is a Network application which is a simple command line subnet calculator that using an IP address and subnet mask given by the user will return five parameters:- 
 A. the network address, 
 B. the broadcast address,
